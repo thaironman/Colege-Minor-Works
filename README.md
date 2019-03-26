@@ -1,2 +1,2 @@
 # Colege-Minor-Works
-Minor programs done in colege
+Minor programs done in college
