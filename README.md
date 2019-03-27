@@ -1,4 +1,4 @@
-# Colege-Minor-Works
+# Colege-Minor-Programs
 Minor programs done in college
 
 ArvoreBinariaBusca - Example of binary search tree.
